@@ -1,6 +1,6 @@
 
-    let USERNAME = 'd04032004singh@gmail.com';   
-    let PASSWORD = 'Divyanshu@password@1234';
+    let USERNAME = '//email';   
+    let PASSWORD = 'password';
     let USERKEYWORDS = '"Founder"OR"Co-Founder"OR"cofounder"OR"owner"';
     let MAX_PAGES = 100;
     let CSV_FILE_PATH = 'delhi.csv';
